@@ -19,3 +19,9 @@ A permissions notification will pop up. Press "Ok"
 Note- when using with Dropbox folders, the dropbox folders need to be set to "Available offline"
 Other Note- make sure that Music/iTunes is not copying files into the media library under Settings->Files-> uncheck
 the box that says "Copy files to Music Media folder when adding to library"
+
+In order to use the logging version-
+move dropboxautologger.sh to your desktop
+in the terminal type "sudo chmod +x" and then drag the file from your desktop into the terminal. press enter. it will prompt you for your password. type it in and press enter. 
+This makes the script executable.
+
