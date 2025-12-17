@@ -25,3 +25,9 @@ move dropboxautologger.sh to your desktop
 in the terminal type "sudo chmod +x" and then drag the file from your desktop into the terminal. press enter. it will prompt you for your password. type it in and press enter. 
 This makes the script executable.
 
+To use the CreatePlaylist_AddFiles utility, open the script in Script Editor and press the little hammer to compile. Then press the play button.
+It will promp you with a directory that you wish to add. It was designed specifically for Dropbox/WGXCStudioAudio/Active/ - so in other words, select every folder you wish to add in the active directory either by using the shift or command keys and then press open. 
+
+It will create a playlist for each folder that you select and it will add all contents of that folder to it's corresponding playlist. 
+
+This is useful for new computer setups.
